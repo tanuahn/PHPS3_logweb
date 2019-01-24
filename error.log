@@ -1,0 +1,7 @@
+[Wed Jan 23 08:00:03.588042 2019] [mpm_prefork:notice] [pid 1008] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Wed Jan 23 08:00:03.588062 2019] [core:notice] [pid 1008] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jan 23 08:23:06.142097 2019] [php7:emerg] [pid 23901] [client ::1:38738] PHP Parse error:  syntax error, unexpected ''<br/>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /var/www/html/session1/untitled/welcome.php on line 35, referer: http://localhost/session1/untitled/
+[Wed Jan 23 11:47:35.034345 2019] [php7:notice] [pid 29771] [client ::1:39746] PHP Notice:  Undefined variable: array in /var/www/html/session3/find-min/index.php on line 12, referer: http://localhost/session3/
+[Wed Jan 23 11:47:35.070263 2019] [php7:warn] [pid 29771] [client ::1:39746] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/session3/find-min/index.php on line 5, referer: http://localhost/session3/
+[Wed Jan 23 13:54:48.136547 2019] [php7:emerg] [pid 23902] [client ::1:40070] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /var/www/html/session1/untitled/welcome.php on line 45, referer: http://localhost/session1/untitled/
+[Wed Jan 23 13:55:08.815871 2019] [php7:emerg] [pid 23901] [client ::1:40076] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /var/www/html/session1/untitled/welcome.php on line 44, referer: http://localhost/session1/untitled/
